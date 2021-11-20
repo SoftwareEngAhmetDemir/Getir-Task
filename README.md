@@ -22,3 +22,13 @@
     4)index.test.js at the first it checks connection with dataBase.
     5)i made an extended function togetError it is specify the Error and Return A custom Message According To MsgIndexs.
     6) after that i called it with exmple Request (u can change the exmpale ) to expect the error.
+ 
+ 
+ 
+ # Run The App for Route app.post('/test') example for Request 
+ {
+"startDate": "2005-10-06",
+"endDate": "2021-10-02",
+"minCount": 0,
+"maxCount": 999999000
+}
