@@ -26,6 +26,7 @@
  
  
  # Run The App npm start for client and npm test to test for Route app.post('/test') example for Request 
+ you can try this example in post man : 
  {
 "startDate": "2005-10-06",
 "endDate": "2021-10-02",
