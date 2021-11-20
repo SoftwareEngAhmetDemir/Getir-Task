@@ -25,7 +25,7 @@
  
  
  
- # Run The App for Route app.post('/test') example for Request 
+ # Run The App npm start for client and npm test to test for Route app.post('/test') example for Request 
  {
 "startDate": "2005-10-06",
 "endDate": "2021-10-02",
