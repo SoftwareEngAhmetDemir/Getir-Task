@@ -1,5 +1,6 @@
 ﻿
- # Getir-Task I deployed the App with packages cause sometimes versions for libraries make problems.
+ # Getir-Task 
+ # Note: I deployed the App with packages cause sometimes versions for libraries make problems.
 
 1.  At first Server file inside the Root folder has 2 request first one is get Api it is just to show you that the Project works .
 2.  The Second Api is Our Main Post Api Whcich will Reponse The Client Request .
