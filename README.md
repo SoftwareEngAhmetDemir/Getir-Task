@@ -1,4 +1,6 @@
 ﻿
+ heroku : http://getirtaskahmeddemir.herokuapp.com/test
+ 
  # Getir-Task 
  # Note: I deployed the App with packages cause sometimes versions for libraries make problems.
 
@@ -26,6 +28,8 @@
  
  
  # Run The App npm start for client and npm test to test for Route app.post('/test') example for Request 
+ 
+ this is the Link : http://getirtaskahmeddemir.herokuapp.com/test
  you can try this example in post man : 
  {
 "startDate": "2005-10-06",
@@ -33,3 +37,7 @@
 "minCount": 0,
 "maxCount": 999999000
 }
+
+
+
+
